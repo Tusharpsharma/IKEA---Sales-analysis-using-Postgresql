@@ -36,11 +36,9 @@
 3. **Analysis**: SQL queries solving practical business problems, each one crafted to address specific questions.
 
 ''' sql
--- IKEA Project SCHEMA
+### IKEA Project SCHEMA
 
-DROP TABLE IF EXISTS inventory, sales, products, stores;
-
--- Product Table
+### Product Table
 CREATE TABLE products
 (
 	product_id VARCHAR(10) PRIMARY KEY,	
@@ -50,7 +48,7 @@ CREATE TABLE products
 	unit_pice FLOAT
 );
 
--- Stores Table
+### Stores Table
 
 CREATE TABLE stores
 (
@@ -60,7 +58,7 @@ CREATE TABLE stores
 	country VARCHAR(25)
 );
 
--- Sales Table
+### Sales Table
 
 CREATE TABLE sales
 (
@@ -74,7 +72,7 @@ CREATE TABLE sales
 );
 
 
--- Inventory Table
+### Inventory Table
 CREATE TABLE inventory
 (
 	inventory_id SERIAL PRIMARY KEY,
