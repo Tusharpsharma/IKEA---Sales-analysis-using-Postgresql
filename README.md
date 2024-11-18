@@ -110,7 +110,7 @@ The following queries were created to solve specific business questions. Each qu
 ## Contact Me
 
   
-📧 **[Email](sharma.tushar447@gmail.com)**  
+📧 **[Email]**(sharma.tushar447@gmail.com)  
 📞 **Phone** (+91 6284852150)
 
 
