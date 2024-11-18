@@ -17,3 +17,15 @@
 **Global Presence:** IKEA has stores in many countries around the world, including India, where they have locations in cities like Bengaluru, Hyderabad, and Mumbai.
 
 **Innovative Solutions:** IKEA is known for its innovative solutions, such as the GERSBY bookcase hack that turns the gap between a fridge and the wall into functional storage space.
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Structure](#ERD)
+- [Database Schema](#database-schema)
+- [Business Problems](#business-problems)
+- [SQL Queries & Analysis](#sql-queries--analysis)
+- [Getting Started](#getting-started)
+- [Questions & Feedback](#questions--feedback)
+- [Contact Me](#contact-me)
+
