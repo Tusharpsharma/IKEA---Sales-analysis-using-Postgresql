@@ -1,1 +1,1 @@
-# IKEA---Sales-analysis-using-Postgresql
+# IKEA- Sales-analysis
