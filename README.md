@@ -1,4 +1,4 @@
-# IKEA- Sales-analysis
+# IKEA- Sales-analysis SQL Project
 ![Project Image Placeholder](https://github.com/Tusharpsharma/IKEA---Sales-analysis-using-Postgresql/blob/main/Ikea-logo.png)
 
 
