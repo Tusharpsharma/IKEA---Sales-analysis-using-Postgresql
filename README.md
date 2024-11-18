@@ -82,4 +82,38 @@ CREATE TABLE inventory
 );
 ''' sql
 
+## Business Problems
+
+The following queries were created to solve specific business questions. Each query is designed to provide insights  about Ikea sales analysis.
+
+**Group BY + JOINS**
+1.	Find the total quantity sold for each product category across all stores.
+2.	List each store's total sales revenue, including both discounted and non-discounted prices.
+3.	Identify the top three products with the highest sales quantity in each country.
+4.	Calculate the average discount given per product category across all stores.
+5.	Find the number of unique products sold in each store within the "Furniture" category.
+
+**CASE Statement**
+1.	Categorize stores based on sales performance as "High," "Medium," or "Low" using the total sales revenue.
+2.	Display the reorder status for each product in inventory as "Low Stock" if current stock is below the reorder level, otherwise "Sufficient Stock."
+3.	Identify each store’s top-selling product and categorize it as “Top Performer” or “Underperformer” based on a specified sales quantity threshold.
+
+**Window Functions**
+1.	List the top five products by sales quantity within each store.
+2.	Rank each product by quantity sold in each store.
+3.	Retrieve the top-selling product in each category.
+4.	Get RANK for each store based on total revenue.
+5.	Use ROW_NUMBER to find the first sale of each product in each store.
+6.	Assign a unique ranking to each product based on its sales quantity, grouped by country.
+
+
+## Contact Me
+
+  
+📧 **[Email](sharma.tushar447@gmail.com)**  
+📞 **Phone** (+91 6284852150)
+
+
+
+
 
