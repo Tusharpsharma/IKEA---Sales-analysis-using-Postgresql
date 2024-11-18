@@ -29,3 +29,10 @@
 - [Questions & Feedback](#questions--feedback)
 - [Contact Me](#contact-me)
 
+## Project Structure
+
+1. **SQL Scripts**: Code to create the database schema and queries for analysis.
+2. **Dataset**: Real-time data on gym visits, membership, and member demographics.
+3. **Analysis**: SQL queries solving practical business problems, each one crafted to address specific questions.
+
+
