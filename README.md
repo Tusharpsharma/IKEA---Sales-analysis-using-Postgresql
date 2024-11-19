@@ -106,6 +106,11 @@ The following queries were created to solve specific business questions. Each qu
 5.	Use ROW_NUMBER to find the first sale of each product in each store.
 6.	Assign a unique ranking to each product based on its sales quantity, grouped by country.
 
+**Subquery and Correlated Subquery**
+1.	Find stores where the total sales revenue is higher than the average revenue across all stores.
+2.	Use a correlated subquery to find products whose sales exceeded the average sales of their category. (Find Best Selling Products of Each Category)
+3.	List cities with total sales greater than the average sales for their country
+4.	Display products whose average unit price in sales transactions is lower than their listed price in the products table.
 
 ## Contact Me
 
